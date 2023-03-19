@@ -10,5 +10,5 @@
  - 3/4 cup flour
 
 ## Instructions
- 1. Blend ingredients together.
- 2. Cook crepes.
+ 1. Blend ingredients together
+ 2. Cook crepes
