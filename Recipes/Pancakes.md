@@ -12,6 +12,6 @@
  - 1 large egg
 
 ## Instructions
- 1. Sift together the dries
- 2. Mix together the wets
+ 1. Sift together the dry ingredients
+ 2. Mix together the wet ingredients
  3. Fold the wets into the dries
