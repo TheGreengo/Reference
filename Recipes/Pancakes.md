@@ -1,9 +1,9 @@
-#Pancakes (Without Buttermilk)#
+# Pancakes (Without Buttermilk)
 
-##Ingredients##
+## Ingredients
  - something
  - your mom
 
-##instructions##
+## instructions
  1. another thing
  2. yet another thing
